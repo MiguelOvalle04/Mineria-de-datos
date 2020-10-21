@@ -11,3 +11,6 @@
 4. [Resumenes](https://github.com/MiguelOvalle04/Mineria-de-datos/blob/master/Resumenes_1801990.pdf)
 5. [Mapa mental 2](https://github.com/MiguelOvalle04/Mineria-de-datos/blob/master/MapaMental_2_1801990.pdf)
 6. [Ejercicio bases de datos](https://github.com/MiguelOvalle04/Mineria-de-datos/blob/master/AnalisisBD_1801990.pdf)
+
+## Parte 2
+7.[Ejercicios básicos de python](https://github.com/MiguelOvalle04/Mineria-de-datos/blob/master/EjerciciosBasicosPython1.ipynb)
