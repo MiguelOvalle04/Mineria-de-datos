@@ -13,4 +13,4 @@
 6. [Ejercicio bases de datos](https://github.com/MiguelOvalle04/Mineria-de-datos/blob/master/AnalisisBD_1801990.pdf)
 
 ## Parte 2
-7.[Ejercicios básicos de python](https://github.com/MiguelOvalle04/Mineria-de-datos/blob/master/EjerciciosBasicosPython1.ipynb)
+7. [Ejercicios básicos de python](https://github.com/MiguelOvalle04/Mineria-de-datos/blob/master/EjerciciosBasicosPython1.ipynb)
