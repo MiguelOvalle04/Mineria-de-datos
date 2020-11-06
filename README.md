@@ -15,3 +15,4 @@
 ## Parte 2
 7. [Ejercicios básicos de python](https://github.com/MiguelOvalle04/Mineria-de-datos/blob/master/EjerciciosBasicosPython1.ipynb)
 8. [Avance del PIA parte 1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Avance1-PIA_13_002.pdf)
+9. [Limpieza y visualización de datos](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios%20Python%20Miner%C3%ADa%20de%20Datos.ipynb)
