@@ -17,3 +17,5 @@
 8. [Avance del PIA parte 1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Avance1-PIA_13_002.pdf)
 9. [Limpieza y visualización de datos](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios%20Python%20Miner%C3%ADa%20de%20Datos.ipynb)
 10. [Avance del PIA parte 2](https://github.com/gnoelopez/MineriaDeDatos/blob/master/AvancePIA_II_002_13.ipynb)
+
+## Parte 3
