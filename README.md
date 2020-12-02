@@ -19,3 +19,4 @@
 10. [Avance del PIA parte 2](https://github.com/gnoelopez/MineriaDeDatos/blob/master/AvancePIA_II_002_13.ipynb)
 
 ## Parte 3
+11. [Ejercicios básicos de python](https://github.com/gnoelopez/MineriaDeDatos/blob/master/PIA_002_13.pdf)
